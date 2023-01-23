@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sparkweb-site/static/css/main.cbb43284.css",
+    "main.js": "/sparkweb-site/static/js/main.d6fd8fac.js",
+    "static/js/787.856677ab.chunk.js": "/sparkweb-site/static/js/787.856677ab.chunk.js",
+    "static/media/basement.otf": "/sparkweb-site/static/media/basement.34683a87de2a604cf634.otf",
+    "index.html": "/sparkweb-site/index.html",
+    "main.cbb43284.css.map": "/sparkweb-site/static/css/main.cbb43284.css.map",
+    "main.d6fd8fac.js.map": "/sparkweb-site/static/js/main.d6fd8fac.js.map",
+    "787.856677ab.chunk.js.map": "/sparkweb-site/static/js/787.856677ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb43284.css",
+    "static/js/main.d6fd8fac.js"
+  ]
+}
